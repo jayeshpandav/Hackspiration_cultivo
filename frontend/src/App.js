@@ -11,7 +11,7 @@ import Crops from "./pages/Crops";
 import FertilizerPred from "./pages/FertilizerPred";
 import GovtSchemes from "./pages/GovtSchemes";
 import Home from "./pages/Home";
-import OurTeam from "./pages/OurTeam";
+{ /*import OurTeam from "./pages/OurTeam"; */}
 
 const App = () => {
   return (
