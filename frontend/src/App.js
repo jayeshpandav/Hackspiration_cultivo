@@ -25,7 +25,7 @@ const App = () => {
           <Route path="/FertilizerPred" element={<FertilizerPred />} exact />
           <Route path="/govtschemes" element={<GovtSchemes />} exact />
           <Route path="/weather" element={<Weather />} exact />
-          <Route path="/ourteam" element={<OurTeam />} exact />
+            { /* <Route path="/ourteam" element={<OurTeam />} exact /> */}
           <Route path="/priceforecast/:crop" element={<CropPrice />} />
           <Route path="/priceforecast" element={<Crops />} />
         </Routes>
